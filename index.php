@@ -253,6 +253,7 @@
 		</footer>
 	</div>
 
+	<!-- leaflet plugin  -->
 	<script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"></script>
 	<script src="https://unpkg.com/rbush@2.0.2/rbush.min.js"></script>
 	<script src="https://unpkg.com/labelgun@6.1.0/lib/labelgun.min.js"></script>
